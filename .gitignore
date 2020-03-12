@@ -1,0 +1,5 @@
+node_modules/
+run_DEV.bat
+run_WATCH.bat
+run_PROD.bat
+env.php
